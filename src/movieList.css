@@ -1,0 +1,9 @@
+.table-data-list{
+    display: flex;
+    justify-content: center;
+}
+
+.table{
+    width: 70%!important;
+    margin-top: 50px;
+}
