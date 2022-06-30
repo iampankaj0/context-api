@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/context-api/static/css/main.a5f73280.css",
+    "main.js": "/context-api/static/js/main.5c1df4b1.js",
+    "index.html": "/context-api/index.html",
+    "main.a5f73280.css.map": "/context-api/static/css/main.a5f73280.css.map",
+    "main.5c1df4b1.js.map": "/context-api/static/js/main.5c1df4b1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a5f73280.css",
+    "static/js/main.5c1df4b1.js"
+  ]
+}
